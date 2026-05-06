@@ -53,8 +53,8 @@ export default function Downloader() {
 
       <div className="relative z-10 max-w-5xl mx-auto">
         <header className="mb-12 border-l-4 border-white pl-6">
-          <h1 className="text-4xl md:text-6xl font-black uppercase tracking-tighter">Multi.Media / <br />Extractor</h1>
-          <p className="text-[10px] opacity-40 mt-2 tracking-[0.3em]">VERSION 2.0 // HIGH-DENSITY INTERFACE</p>
+          <h1 className="text-4xl md:text-6xl font-black uppercase tracking-tighter">AnLe Dep Try / <br />Download Tools</h1>
+          <p className="text-[10px] opacity-40 mt-2 tracking-[0.3em]">QUA DA</p>
         </header>
 
         {/* Tab Navigation */}
